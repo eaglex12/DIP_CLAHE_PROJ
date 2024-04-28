@@ -1,5 +1,5 @@
 
-### <h3 id="toc_3">project 3 - Image enhancement & implementation of CLAHE algorithm ([code](https://github.com/gordicaleksa/digital-image-processing/blob/master/project3/))</h3>
+### <h3 id="toc_3">project 3 - Image enhancement & implementation of CLAHE algorithm </h3>
 
 The project contains a series of image enhancment algorithms. Noise removal, contrast enhancment, binarization etc. <br />
 It also contains my own implementation of the CLAHE (contrast-limited adaptive histogram equalization) algorithm.
